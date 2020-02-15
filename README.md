@@ -17,7 +17,7 @@ List of snippets and libraries from [Onebit](http://onebitmedia.com) engineers
 
 ## <a name="go"></a>Go
 
-* [Google Shortener](https://github.com/hiraq-golang/googl-shortener) - Create shortener url using google shortener api
+* [Google Shortener](https://github.com/ayan_sinha/googl-shortener) - Create shortener url using google shortener api
 
 
 ## <a name="php"></a>PHP
