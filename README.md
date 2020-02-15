@@ -48,9 +48,6 @@ List of snippets and libraries from [Onebit](http://onebitmedia.com) engineers
 
 ## <a name="kotlin"></a>Kotlin
 
-* [String Extensions](https://gist.github.com/akhyrul/e97709611af4331ef429) (Gist) - Kotlin extension functions for manipulating String
-* [Gravatar Helper](https://gist.github.com/akhyrul/e97709611af4331ef429) (Gist) - Type-safe Kotlin helper for generating Gravatar URL from email string
-
 
 ## <a name="swift"></a>Swift
 
