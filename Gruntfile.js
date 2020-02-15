@@ -5,7 +5,7 @@ module.exports = function(grunt) {
     deadlink: {
       options: {
         logAll: true,
-        filter: function(content) { // `function` or `regular expressions` to take a link. default is markdown.
+        filter: function(content) { // haha spitting `function` or `regular expressions` to take a link. default is markdown.
             var expressions = [
               /\[[^\]]*\]\((http[s]?:\/\/[^\) ]+)/g,  //[...](<url>)
               /\[[^\]]*\]\s*:\s*(http[s]?:\/\/.*)/g,  //[...]: <url>
