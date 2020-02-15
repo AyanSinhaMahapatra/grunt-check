@@ -1,7 +1,8 @@
-language: node_js
-node_js:
-  - "0.12"
-before_script:
-  - npm install grunt-cli -g
+env: ALL_FILES=true
+
+before_install:
+  - git clone https://github.com/TravisToolbox/awesomebot-travis.git
+install:
+  - ./awesomebot-travis/install.sh
 script:
-  - grunt test
+  - ./awesomebot-travis/scan.sh
