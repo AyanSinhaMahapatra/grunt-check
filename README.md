@@ -17,8 +17,6 @@ List of snippets and libraries from [Onebit](http://onebitmedia.com) engineers
 
 ## <a name="go"></a>Go
 
-* [Google Shortener](https://github.com/ayan_sinha/googl-shortener) - Create shortener url using google shortener api
-
 
 ## <a name="php"></a>PHP
 
@@ -50,8 +48,8 @@ List of snippets and libraries from [Onebit](http://onebitmedia.com) engineers
 
 ## <a name="kotlin"></a>Kotlin
 
-* [String Extensions](https://gist.github.com/akhyrul/e97709611af4331ef429#file-stringhelpers-kt) (Gist) - Kotlin extension functions for manipulating String
-* [Gravatar Helper](https://gist.github.com/akhyrul/e97709611af4331ef429#file-gravatarhelpers-kt) (Gist) - Type-safe Kotlin helper for generating Gravatar URL from email string
+* [String Extensions](https://gist.github.com/akhyrul/e97709611af4331ef429) (Gist) - Kotlin extension functions for manipulating String
+* [Gravatar Helper](https://gist.github.com/akhyrul/e97709611af4331ef429) (Gist) - Type-safe Kotlin helper for generating Gravatar URL from email string
 
 
 ## <a name="swift"></a>Swift
